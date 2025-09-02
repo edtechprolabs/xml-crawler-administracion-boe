@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.xml
+urls_*.txt
+downloads/
